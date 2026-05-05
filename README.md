@@ -46,7 +46,7 @@ Objection permet de fouiller la mémoire de l'application pour identifier les m�
 
 > [!NOTE]
 > **Recherche des classes liées au root et methodes  :**
-> ![Recherche Classes](./img-lab12-sec/5.png)
+> ![Recherche Classes](./img-lab13-sec/5.png)
 
 ---
 
