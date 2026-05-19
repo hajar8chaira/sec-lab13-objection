@@ -1,9 +1,9 @@
 
-# Rapport de Laboratoire : Sécurité des Applications Mobiles
+# Rapport de Lab : Sécurité des Applications Mobiles
 ## LAB 13 — Bypass de la Détection de Root Android avec Objection
 
-**Étudiant :** Chaira Hajr
-**Sujet :** Utilisation d'un framework d'exploration runtime pour le contournement de sécurités  
+**Étudiant :** Chaira Hajar
+
 
 
 ---
